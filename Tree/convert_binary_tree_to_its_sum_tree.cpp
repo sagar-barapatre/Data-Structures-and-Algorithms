@@ -16,29 +16,28 @@ public :
 	}
 };
 
-
-int height(Node* root, int &ans)
+void preOrder(Node* root)
 {
 	if (root == nullptr)
-		return 0;
-
-	int left = height(root->left, ans);
-	int right = height(root->right, ans);
-
-	ans = max(ans, 1 + left + right);
-
-	return 1 + max(left, right);
+		return ;
+	cout << root->data << " ";
+	preOrder(root->left);
+	preOrder(root->right);
 }
 
-int diameter(Node* root)
+int sumTree(Node* root)
 {
-	int ans = INT_MIN;
-
-	if (root == nullptr)
+	if (root == NULL)
 		return 0;
 
-	int height_tree = height(root, ans);
-	return ans;
+	int left = sumTree(root->left);
+	int right = sumTree(root->right);
+
+	int old = root->data;
+
+	root->data = left + right;
+
+	return root->data + old;
 }
 
 int main()
@@ -50,7 +49,9 @@ int main()
 	root->right = new Node(3);
 	root->left->right = new Node(5);
 
-	cout << diameter(root) << endl;
+	sumTree(root);
+	preOrder(root);
+	cout << endl;
 
 	return 0;
 }
