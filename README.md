@@ -1,6 +1,4 @@
-<div align="center" style="margin: 20px">
-  <img src="https://github.com/rishabh-bansal/Data-Structures/raw/master/image.jpg">
-</div
+
   
   ![](https://github.com/codeIIEST/Algorithms/blob/master/algocodeiiest.jpg)
   
@@ -11,11 +9,11 @@ This repository contains some of the most **intriguing and awesome algorithms** 
 --------------------------------------------------------------
 
 ### Project Details
-The entire project is divided into 4 parts
+The entire project is divided into 2 parts
 
 * Competitive Coding Algorithms and Data Structures
-* Security Algorithms
-* Machine Learning Algorithms
+
+
 * Statistical / Mathematical Algorithms
 
 -----------------------------------------------------------------
