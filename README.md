@@ -4,7 +4,7 @@
   
   ### About the Project
 
-This repository contains some of the most **intriguing and awesome algorithms** of daily life implemented in languages primarily in C/C++/Java/Python.
+This repository contains some of the most **intriguing and awesome algorithms** of daily life implemented in languages primarily in C/C++.
 
 --------------------------------------------------------------
 
@@ -54,11 +54,7 @@ Data Structures
 ### Contributing
 
 This project is absolutely accepting pull requests (first-timers welcome!). Feel free to report bugs and suggest features by opening a new issue.
-We would always encourage contribution from new developers. We hope with your contributions the project ecosystem will evolve much more in the future.
-
-For more details please see the [Contributing Guidelines](https://github.com/codeIIEST/Algorithms/blob/master/CONTRIBUTING.md).
-
-We maintain a curated list of issues under the [issues page](https://github.com/codeIIEST/Algorithms/issues).
+I would always encourage contribution from new developers. I hope with your contributions the project ecosystem will evolve much more in the future.
 
 ---------------------------------------------------
 
