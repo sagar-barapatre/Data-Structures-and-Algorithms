@@ -1,20 +1,23 @@
 
   
   ![](https://github.com/codeIIEST/Algorithms/blob/master/algocodeiiest.jpg)
-  
-  ### About the Project
-
-This repository contains some of the most **intriguing and awesome algorithms** of daily life implemented in languages primarily in C/C++.
 
 --------------------------------------------------------------
 
-### Project Details
-The entire project is divided into 2 parts
+Hi there! 👋
 
-* Competitive Coding Algorithms and Data Structures
+I'm maintaining this repo solely for the purpose of brushing up my DS Algo concepts before an interview. 
 
+_This is not a complete guide for interview preparation._
 
-* Statistical / Mathematical Algorithms
+References:
+- _Cracking the Coding Interview_ by Gayle Laakmann McDowell
+- _Programming Interviews Exposed_ by Eric Giguere, John Mongan, and Noah Kindler
+- GeeksForGeeks
+
+Resources:
+- https://www.bigocheatsheet.com/
+- https://seanprashad.com/leetcode-patterns/
 
 -----------------------------------------------------------------
 
@@ -49,12 +52,6 @@ Data Structures
     └── BINARY_SEARCH_TREE.cpp                 # binary search tree
 ```
 
---------------------------------------------------------------
-
-### Contributing
-
-This project is absolutely accepting pull requests (first-timers welcome!). Feel free to report bugs and suggest features by opening a new issue.
-I would always encourage contribution from new developers. I hope with your contributions the project ecosystem will evolve much more in the future.
 
 ---------------------------------------------------
 
