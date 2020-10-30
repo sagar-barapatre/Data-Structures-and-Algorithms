@@ -16,8 +16,8 @@ References:
 - GeeksForGeeks
 
 Resources:
-- https://www.bigocheatsheet.com/
-- https://seanprashad.com/leetcode-patterns/
+- [ Big O cheat sheet ](https://www.bigocheatsheet.com/)
+- [ Leetcode Patterns ]https://seanprashad.com/leetcode-patterns/
 - [DSA Cracker](https://bit.ly/33Vy5t9)
 
 -----------------------------------------------------------------
