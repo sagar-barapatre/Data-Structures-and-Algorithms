@@ -17,7 +17,7 @@ References:
 
 Resources:
 - [ Big O cheat sheet ](https://www.bigocheatsheet.com/)
-- [ Leetcode Patterns ]https://seanprashad.com/leetcode-patterns/
+- [ Leetcode Patterns ](https://seanprashad.com/leetcode-patterns/)
 - [DSA Cracker](https://bit.ly/33Vy5t9)
 
 -----------------------------------------------------------------
